@@ -3,4 +3,4 @@
 #  ©2023 Mathurin Roulier, PTSI Lycée Lesage, Vannes, France  #
 # ----------------------------------------------------------- #
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"
