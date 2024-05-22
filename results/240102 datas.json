@@ -1,0 +1,32 @@
+{
+  "Inert boat": {
+    "max_speed": 0.39724119599850516,
+    "direction_changes": 0.0,
+    "total_negative_work": 0.0,
+    "time_of_arrival": 56.800000000000004
+  },
+  "Initial headed boat": {
+    "max_speed": 0.4396873427393431,
+    "direction_changes": 0.0,
+    "total_negative_work": 0.0,
+    "time_of_arrival": 57.7
+  },
+  "GPS headed boat": {
+    "max_speed": 0.4787063549768744,
+    "direction_changes": 133.81803153394404,
+    "total_negative_work": -4.1190987385064695,
+    "time_of_arrival": 64.5
+  },
+  "Currents adapted boat": {
+    "max_speed": 0.4601306720100012,
+    "direction_changes": 931.5795221851574,
+    "total_negative_work": -0.0780968224997173,
+    "time_of_arrival": 59.300000000000004
+  },
+  "Direct route boat": {
+    "max_speed": 0.4523853032352623,
+    "direction_changes": 2105.3214985969425,
+    "total_negative_work": -0.03122325921130706,
+    "time_of_arrival": 58.6
+  }
+}

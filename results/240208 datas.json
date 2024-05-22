@@ -1,0 +1,20 @@
+{
+  "Bateau inerte": {
+    "max_speed": 1.4000000000000021,
+    "direction_changes": 0.0,
+    "total_negative_work": 0.0,
+    "time_of_arrival": 46
+  },
+  "Maintien de cap": {
+    "max_speed": 3.1495710778842105,
+    "direction_changes": 0.0,
+    "total_negative_work": 0.0,
+    "time_of_arrival": 46
+  },
+  "Guidage GPS": {
+    "max_speed": 3.1495710778842034,
+    "direction_changes": 134.98897797369995,
+    "total_negative_work": -16.63986075496231,
+    "time_of_arrival": 75
+  }
+}

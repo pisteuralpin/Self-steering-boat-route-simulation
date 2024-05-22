@@ -1,0 +1,5 @@
+Bateau inerte,{'max_speed': 0.31779295679882197, 'direction_changes': 0.0, 'total_negative_work': 0.0, 'time_of_arrival': 71.0}
+Maintien de cap,{'max_speed': 0.3909777170317915, 'direction_changes': 0.0, 'total_negative_work': 0.0, 'time_of_arrival': 60.400000000000006}
+Guidage GPS,{'max_speed': 0.49311097334091825, 'direction_changes': 124.61857347810766, 'total_negative_work': -1.7618115925576079, 'time_of_arrival': 63.900000000000006}
+Suivi de la route adaptée,{'max_speed': 0.39940465632026284, 'direction_changes': 917.4727481062461, 'total_negative_work': 0.0, 'time_of_arrival': 61.400000000000006}
+Suivi de la ligne directe,{'max_speed': 0.3970210085894781, 'direction_changes': 2125.7396352669293, 'total_negative_work': 0.0, 'time_of_arrival': 61.0}
