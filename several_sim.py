@@ -5,6 +5,7 @@
 import time
 start_time = time.perf_counter()
 
+
 import numpy as np
 import datetime
 import json
@@ -40,7 +41,7 @@ end = (155, 45)                                                                #
 
 # -------------------------------- Currents ---------------------------------- #
 
-currents_max_speed = 2.5
+currents_max_speed = 2
 currents_dispersion = .3
 
 currents_models = ["No currents", "Uniform currents", "Random currents"]
@@ -50,9 +51,10 @@ currents_model = 2
 # ----------------------------- Boats parameters ----------------------------- #
 
 boats_base_speed = 2 # m/s
-hydrodynamic_efficiency = .7
 calculations_tick = .1 # s
 precision = .25 # m
+
+hydrodynamic_efficiency = 1
 
 # ----------------------------- Prints parameters ---------------------------- #
 
@@ -134,8 +136,7 @@ datas= {
     "datas": []
 }
 
-for k in range(loops):
-
+def calculate_step(k):
     datas['datas'].append({})
 
     step_time = time.perf_counter()
@@ -147,12 +148,16 @@ for k in range(loops):
     currents_map = currents.get_currents()
     currents_speeds = currents.speeds
 
+    # print(f"  🌊 Currents calculated in {time.perf_counter()-step_time:.2f}s")
+
     # -------------------------------- Routes -------------------------------- #
 
     for r in routes:
         model_time = time.perf_counter()
         r.calculate(currents_map, end)
         r.calculations_duration = time.perf_counter()-model_time
+
+    # print(f"  🧭 Routes calculated in {time.perf_counter()-step_time:.2f}s")
 
     # --------------------------------- Boats -------------------------------- #
 
@@ -172,12 +177,19 @@ for k in range(loops):
             'time_of_arrival': len(b.positions)*calculations_tick,
         }
 
+    # print(f"  🚤 Boats calculated in {time.perf_counter()-step_time:.2f}s")
+
     # -------------------------------- Reset boat -------------------------------- #
         
     for b in boats:
         b.reset()
 
     print(f"✔ Step {k+1} calculated in {time.perf_counter()-step_time:.2f}s")
+
+# Start all threads
+for k in range(loops):
+    calculate_step(k)
+
 
 # ---------------------------------------------------------------------------- #
 #                              End of simulations                              #

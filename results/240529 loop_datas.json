@@ -1,0 +1,3204 @@
+{
+  "datas": [
+    {
+      "Bateau inerte": {
+        "max_speed": 0.29019968827047615,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 64.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4735807008774525,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.6
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4095302878068083,
+        "direction_changes": 134.50800183526837,
+        "total_negative_work": -4.675273338940686,
+        "time_of_arrival": 67.3
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.5151080332760061,
+        "direction_changes": 936.9745140167171,
+        "total_negative_work": -0.4911010326988706,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.41209212599138917,
+        "direction_changes": 2062.3854459552226,
+        "total_negative_work": -0.48118238638484756,
+        "time_of_arrival": 59.300000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.37790362220958384,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4976593971766173,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4216662667175351,
+        "direction_changes": 134.96823845207862,
+        "total_negative_work": -6.5312843255514474,
+        "time_of_arrival": 69.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3963945059216447,
+        "direction_changes": 901.4940392975946,
+        "total_negative_work": -1.2432485386022933,
+        "time_of_arrival": 60.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.39846115824439365,
+        "direction_changes": 2077.110062569057,
+        "total_negative_work": -0.3731231690062381,
+        "time_of_arrival": 59.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2706410625481883,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 64.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4698171559769796,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.45951414269796154,
+        "direction_changes": 134.68064708371588,
+        "total_negative_work": -6.414813898942068,
+        "time_of_arrival": 68.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.47451537521854764,
+        "direction_changes": 978.7641655522513,
+        "total_negative_work": -1.0548740791959648,
+        "time_of_arrival": 59.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.40810681840071805,
+        "direction_changes": 1994.3718178170468,
+        "total_negative_work": -0.28743665495186305,
+        "time_of_arrival": 57.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3256323337334075,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.300000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.49024933093187,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.41073239416153234,
+        "direction_changes": 133.10955482106073,
+        "total_negative_work": -5.91568576082152,
+        "time_of_arrival": 66.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4543709859026892,
+        "direction_changes": 880.5438120236502,
+        "total_negative_work": -0.7427746138292572,
+        "time_of_arrival": 59.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.45692172775508827,
+        "direction_changes": 1979.350682433916,
+        "total_negative_work": -0.17052840461252544,
+        "time_of_arrival": 57.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.26875948051211607,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 70.60000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4214060400141321,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4045320336230254,
+        "direction_changes": 134.77138470176325,
+        "total_negative_work": -4.375967893763579,
+        "time_of_arrival": 67.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.40880151610686244,
+        "direction_changes": 936.2898587111443,
+        "total_negative_work": -0.7879013495877782,
+        "time_of_arrival": 60.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3871356463111289,
+        "direction_changes": 2107.094350833471,
+        "total_negative_work": -0.19805974517731312,
+        "time_of_arrival": 59.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.27853135665604695,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 66.9
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4353909634322539,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.40050870885625095,
+        "direction_changes": 134.93009624590886,
+        "total_negative_work": -5.1335243875422005,
+        "time_of_arrival": 67.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3964622883351824,
+        "direction_changes": 995.0880514808917,
+        "total_negative_work": -0.643751395829504,
+        "time_of_arrival": 61.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.38610223152929485,
+        "direction_changes": 2177.373666033336,
+        "total_negative_work": -0.3086509139567035,
+        "time_of_arrival": 60.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.32601808612150907,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.506277422104282,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.47791885291799174,
+        "direction_changes": 128.53441226532675,
+        "total_negative_work": -2.388695944795336,
+        "time_of_arrival": 63.1
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.45454634981781483,
+        "direction_changes": 889.7704953145079,
+        "total_negative_work": -0.1667937458877931,
+        "time_of_arrival": 59.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4458197970244038,
+        "direction_changes": 2043.5593951525618,
+        "total_negative_work": -0.01709800383253319,
+        "time_of_arrival": 58.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2915618463858793,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 66.10000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5150958693785435,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.6
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4515092041323446,
+        "direction_changes": 134.32755940514642,
+        "total_negative_work": -5.197089142688835,
+        "time_of_arrival": 65.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.43715943695153175,
+        "direction_changes": 927.4772892803608,
+        "total_negative_work": -0.4553065481770905,
+        "time_of_arrival": 58.300000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3881777490738607,
+        "direction_changes": 1962.6090176764394,
+        "total_negative_work": -0.16818420351646768,
+        "time_of_arrival": 57.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.27474537364373885,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 67.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5401551693793709,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.40289915302529966,
+        "direction_changes": 134.99950562718828,
+        "total_negative_work": -7.884376716665726,
+        "time_of_arrival": 73.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4037922436326768,
+        "direction_changes": 975.2571658613954,
+        "total_negative_work": -1.4985715270371405,
+        "time_of_arrival": 61.1
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3855133709071264,
+        "direction_changes": 2081.4531392234076,
+        "total_negative_work": -0.6583348498486794,
+        "time_of_arrival": 59.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3288069396257804,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5011946166571964,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.2
+      },
+      "Guidage GPS": {
+        "max_speed": 0.40652380601305466,
+        "direction_changes": 134.99221235323418,
+        "total_negative_work": -5.940812871161988,
+        "time_of_arrival": 70.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3787866396350749,
+        "direction_changes": 889.2859055924249,
+        "total_negative_work": -1.1446284053424316,
+        "time_of_arrival": 60.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.38262055498091935,
+        "direction_changes": 2134.3238375091437,
+        "total_negative_work": -0.724144824420005,
+        "time_of_arrival": 59.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.22971683901706316,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 90.10000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4894572767908281,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.47080706020014873,
+        "direction_changes": 128.04363975931875,
+        "total_negative_work": -2.6361351420423644,
+        "time_of_arrival": 64.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.47557026021613685,
+        "direction_changes": 950.8814085144534,
+        "total_negative_work": -0.24192038064563115,
+        "time_of_arrival": 60.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.47217531296429494,
+        "direction_changes": 2125.7315914057062,
+        "total_negative_work": -0.04476221846774403,
+        "time_of_arrival": 59.400000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.34102043730693665,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 54.0
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5264273349346658,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.5150885273681588,
+        "direction_changes": 134.9916381136332,
+        "total_negative_work": -5.7793218589051865,
+        "time_of_arrival": 68.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4091727423336278,
+        "direction_changes": 918.3919969642579,
+        "total_negative_work": -1.3588672167374678,
+        "time_of_arrival": 60.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4013218116721231,
+        "direction_changes": 1999.5338428323087,
+        "total_negative_work": -0.6326525403553094,
+        "time_of_arrival": 58.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3054384186013831,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.48807391510203746,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 53.2
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4606049862015161,
+        "direction_changes": 131.283236140446,
+        "total_negative_work": -3.277967976790707,
+        "time_of_arrival": 63.5
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4288476553515849,
+        "direction_changes": 887.4542569668644,
+        "total_negative_work": -0.24746238470380177,
+        "time_of_arrival": 59.1
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.43633454612748074,
+        "direction_changes": 2007.125660915854,
+        "total_negative_work": -0.03301041662327055,
+        "time_of_arrival": 58.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2997015257134245,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 60.800000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5103165354844562,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4727797020506412,
+        "direction_changes": 131.6682001508068,
+        "total_negative_work": -4.38066864551704,
+        "time_of_arrival": 65.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4660000530151752,
+        "direction_changes": 864.1292198815612,
+        "total_negative_work": -0.1522478547689209,
+        "time_of_arrival": 59.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4592681587206031,
+        "direction_changes": 2013.6630450538069,
+        "total_negative_work": -0.025950473359957385,
+        "time_of_arrival": 58.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.29592940855113015,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 72.10000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4458207044252652,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.47726676422930775,
+        "direction_changes": 125.81376564931763,
+        "total_negative_work": -2.038480100403019,
+        "time_of_arrival": 63.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4881755979352872,
+        "direction_changes": 992.1830583010807,
+        "total_negative_work": -0.024441600188810274,
+        "time_of_arrival": 60.6
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.39678083618046817,
+        "direction_changes": 2109.790567495685,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 60.300000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.33738286158218844,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 54.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5218162837020734,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 54.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.449070209754635,
+        "direction_changes": 133.42169691258943,
+        "total_negative_work": -5.6402100659067935,
+        "time_of_arrival": 65.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4196352414144972,
+        "direction_changes": 901.1731674828029,
+        "total_negative_work": -0.5015903760042097,
+        "time_of_arrival": 58.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.414966684929791,
+        "direction_changes": 1982.6464005785651,
+        "total_negative_work": -0.09543517324762832,
+        "time_of_arrival": 57.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.30648892604767514,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5471734722992803,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.5324946276934458,
+        "direction_changes": 134.64996447784534,
+        "total_negative_work": -2.7095431099622616,
+        "time_of_arrival": 64.3
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3860285208922213,
+        "direction_changes": 1012.2404574652363,
+        "total_negative_work": -0.4953951250075567,
+        "time_of_arrival": 60.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3910670965908146,
+        "direction_changes": 2107.3954902517603,
+        "total_negative_work": -0.22098124384401485,
+        "time_of_arrival": 59.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.35503907137552776,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 52.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4487351686519739,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.44023668422124884,
+        "direction_changes": 133.10106752988662,
+        "total_negative_work": -2.954366588132478,
+        "time_of_arrival": 64.3
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.41096030189184257,
+        "direction_changes": 929.4603444875886,
+        "total_negative_work": -0.1321248777229936,
+        "time_of_arrival": 59.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4100493226712335,
+        "direction_changes": 2048.7754995308437,
+        "total_negative_work": -0.015118420215191955,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2549284132581243,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 72.10000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5337497944696385,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.5050891429398853,
+        "direction_changes": 120.77313886384798,
+        "total_negative_work": -2.1350255724042486,
+        "time_of_arrival": 63.800000000000004
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4819339688287532,
+        "direction_changes": 860.4257428718399,
+        "total_negative_work": -0.019798436976763527,
+        "time_of_arrival": 60.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4582727770811723,
+        "direction_changes": 2060.846511961278,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.29753720539560563,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 64.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5186050536504446,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.41841908191819666,
+        "direction_changes": 131.50302933083617,
+        "total_negative_work": -3.4204951021119276,
+        "time_of_arrival": 64.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.44793222793478826,
+        "direction_changes": 852.978903375566,
+        "total_negative_work": -0.04168574885462112,
+        "time_of_arrival": 59.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.44124358171271943,
+        "direction_changes": 2024.992072279491,
+        "total_negative_work": -0.02008548388430234,
+        "time_of_arrival": 58.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3369906868565917,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.512572029563997,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.2
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4250447244326943,
+        "direction_changes": 134.968983460088,
+        "total_negative_work": -8.537351050560886,
+        "time_of_arrival": 72.5
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4158192664285477,
+        "direction_changes": 988.3805791799576,
+        "total_negative_work": -1.9579316929930584,
+        "time_of_arrival": 60.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.40070654484482016,
+        "direction_changes": 2020.7819620267262,
+        "total_negative_work": -0.8295370295424798,
+        "time_of_arrival": 58.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.32830901175294763,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 54.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5097948956867439,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 49.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.47267557268138516,
+        "direction_changes": 134.486148813756,
+        "total_negative_work": -6.03940603602641,
+        "time_of_arrival": 65.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4424927642503763,
+        "direction_changes": 1009.163233530714,
+        "total_negative_work": -0.6409172230653615,
+        "time_of_arrival": 58.300000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3947520468986671,
+        "direction_changes": 1940.426121963998,
+        "total_negative_work": -0.12797651912501665,
+        "time_of_arrival": 57.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.37916061346720936,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.800000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.541068778759925,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.46298242927780714,
+        "direction_changes": 130.49871944240215,
+        "total_negative_work": -3.6541519629748307,
+        "time_of_arrival": 64.5
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4478247858010103,
+        "direction_changes": 964.5167273713859,
+        "total_negative_work": -0.0961213503861358,
+        "time_of_arrival": 58.900000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.44800882555696736,
+        "direction_changes": 2009.5877794708738,
+        "total_negative_work": -0.09103869250175772,
+        "time_of_arrival": 58.6
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2642282825852869,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 73.4
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5131494133126393,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.6
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4635905897448982,
+        "direction_changes": 129.66592944880264,
+        "total_negative_work": -3.217848493572597,
+        "time_of_arrival": 64.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4553895429606724,
+        "direction_changes": 859.8174947165397,
+        "total_negative_work": -0.09857614741130558,
+        "time_of_arrival": 59.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.39147827739164875,
+        "direction_changes": 2006.4678624738244,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.6
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3174903172808098,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5018919837057446,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4856023851861694,
+        "direction_changes": 130.81176302931925,
+        "total_negative_work": -3.317805103582187,
+        "time_of_arrival": 64.3
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4480220748939362,
+        "direction_changes": 922.0216815837134,
+        "total_negative_work": -0.10488599685718497,
+        "time_of_arrival": 59.1
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.43830372348478136,
+        "direction_changes": 2041.2106527675373,
+        "total_negative_work": -0.015090953830543277,
+        "time_of_arrival": 58.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3969482637419521,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 47.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4825368680310744,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.46586713113663525,
+        "direction_changes": 133.99843503669686,
+        "total_negative_work": -6.088553211697855,
+        "time_of_arrival": 66.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.47372839908130066,
+        "direction_changes": 971.1628750171466,
+        "total_negative_work": -0.5462463398756314,
+        "time_of_arrival": 59.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.41311804419138004,
+        "direction_changes": 2040.166149669885,
+        "total_negative_work": -0.4314039951207702,
+        "time_of_arrival": 58.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3085010710138381,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.1
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5110131206790853,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4761777700687354,
+        "direction_changes": 131.2235873278151,
+        "total_negative_work": -2.7081968580642743,
+        "time_of_arrival": 63.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.45032276942046995,
+        "direction_changes": 937.5691629840253,
+        "total_negative_work": -0.16336627122029554,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.45276113528379064,
+        "direction_changes": 2035.5755996682255,
+        "total_negative_work": -0.04739085347623578,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3556875623660663,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.1
+      },
+      "Maintien de cap": {
+        "max_speed": 0.49730163751706025,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 52.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4650380028678781,
+        "direction_changes": 133.99451296715603,
+        "total_negative_work": -6.220926114563621,
+        "time_of_arrival": 66.3
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.42933258688961073,
+        "direction_changes": 896.5497933320552,
+        "total_negative_work": -0.30630837322921356,
+        "time_of_arrival": 58.1
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42406396019272163,
+        "direction_changes": 2000.5321211934436,
+        "total_negative_work": -0.12704598636846592,
+        "time_of_arrival": 57.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3049117728863821,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4894950520256107,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4769874034281809,
+        "direction_changes": 133.96458623930172,
+        "total_negative_work": -4.775235242693613,
+        "time_of_arrival": 65.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3999429032675189,
+        "direction_changes": 870.9980322309974,
+        "total_negative_work": -0.2827919694801649,
+        "time_of_arrival": 59.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.40029526300315793,
+        "direction_changes": 2007.8548880379844,
+        "total_negative_work": -0.2440818109953074,
+        "time_of_arrival": 58.400000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.32884127332712987,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 60.6
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5099343066937995,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.900000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4603427576614894,
+        "direction_changes": 133.62319222378161,
+        "total_negative_work": -5.604617201642723,
+        "time_of_arrival": 66.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4600412217321864,
+        "direction_changes": 986.1114559037167,
+        "total_negative_work": -0.4757076285136884,
+        "time_of_arrival": 58.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.426045985094766,
+        "direction_changes": 2038.5517263410554,
+        "total_negative_work": -0.12709355638083042,
+        "time_of_arrival": 58.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.36338203815366454,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 52.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5148998619340569,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.6
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4919358494589068,
+        "direction_changes": 134.85718321296721,
+        "total_negative_work": -5.129313307134997,
+        "time_of_arrival": 67.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4801678158628983,
+        "direction_changes": 947.6979124992992,
+        "total_negative_work": -0.46477250860544245,
+        "time_of_arrival": 59.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4308316988749853,
+        "direction_changes": 1995.5488474443862,
+        "total_negative_work": -0.3620360921521118,
+        "time_of_arrival": 58.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.22932320685936583,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 78.4
+      },
+      "Maintien de cap": {
+        "max_speed": 0.42357939204177203,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.5182666864363953,
+        "direction_changes": 111.84664597584717,
+        "total_negative_work": -1.328500329160222,
+        "time_of_arrival": 63.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4559621616969687,
+        "direction_changes": 972.2245226939946,
+        "total_negative_work": -0.0050667316060274,
+        "time_of_arrival": 61.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.40945743877115753,
+        "direction_changes": 2151.3062601689053,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 60.6
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.43622930214977595,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 45.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.432721495749491,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4202858277588193,
+        "direction_changes": 134.67650521066062,
+        "total_negative_work": -4.632562483501755,
+        "time_of_arrival": 66.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.39792670917507506,
+        "direction_changes": 972.7865781558329,
+        "total_negative_work": -0.534652558690617,
+        "time_of_arrival": 59.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.39264130351247445,
+        "direction_changes": 2054.591322045063,
+        "total_negative_work": -0.4184375425237089,
+        "time_of_arrival": 59.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.39555022996136846,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 54.1
+      },
+      "Maintien de cap": {
+        "max_speed": 0.48244706802886506,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.45043284969485253,
+        "direction_changes": 134.5769172674902,
+        "total_negative_work": -4.150919882940718,
+        "time_of_arrival": 65.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3942168761720012,
+        "direction_changes": 990.5333609556079,
+        "total_negative_work": -0.5848294600735107,
+        "time_of_arrival": 60.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.37747946119308406,
+        "direction_changes": 2077.922695312671,
+        "total_negative_work": -0.186767181881416,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3185275765755918,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4729355971404864,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.2
+      },
+      "Guidage GPS": {
+        "max_speed": 0.454354304683472,
+        "direction_changes": 134.82597416525368,
+        "total_negative_work": -6.267528997625794,
+        "time_of_arrival": 67.4
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4012468634713285,
+        "direction_changes": 1038.1637602035605,
+        "total_negative_work": -0.6405563960467742,
+        "time_of_arrival": 58.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42000810532274735,
+        "direction_changes": 1988.8247274064809,
+        "total_negative_work": -0.37502022472425944,
+        "time_of_arrival": 58.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.26897475483064137,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 72.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5328436131458498,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.40498007831337834,
+        "direction_changes": 134.32286781169225,
+        "total_negative_work": -4.263839666982724,
+        "time_of_arrival": 66.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.45200538002021995,
+        "direction_changes": 1022.9342235516218,
+        "total_negative_work": -0.46355540529700795,
+        "time_of_arrival": 59.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42415536407049514,
+        "direction_changes": 2119.0623523347526,
+        "total_negative_work": -0.22490494593056723,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2606034981687337,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 67.8
+      },
+      "Maintien de cap": {
+        "max_speed": 0.44164267812345054,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.900000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4230438919447017,
+        "direction_changes": 133.85763856112214,
+        "total_negative_work": -2.1115404120056036,
+        "time_of_arrival": 64.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.37712947783742257,
+        "direction_changes": 966.7410000318465,
+        "total_negative_work": -0.3261127911542025,
+        "time_of_arrival": 61.300000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.37661148978544684,
+        "direction_changes": 2167.2533385662746,
+        "total_negative_work": -0.1905377079676365,
+        "time_of_arrival": 60.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.428281435819167,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 44.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5311252525299529,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.45279644634297156,
+        "direction_changes": 132.51074727513065,
+        "total_negative_work": -3.8209780613948965,
+        "time_of_arrival": 64.4
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4187797139408307,
+        "direction_changes": 967.4914235621796,
+        "total_negative_work": -0.21131610939136872,
+        "time_of_arrival": 59.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.415624704858275,
+        "direction_changes": 2061.7713330945394,
+        "total_negative_work": -0.06376961384562597,
+        "time_of_arrival": 58.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2544009979555996,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 74.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4200641185982997,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.44621914593908113,
+        "direction_changes": 131.99981985800548,
+        "total_negative_work": -4.471262426175416,
+        "time_of_arrival": 65.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4468321157128071,
+        "direction_changes": 891.5532476342543,
+        "total_negative_work": -0.26212124169738144,
+        "time_of_arrival": 59.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4473652967082397,
+        "direction_changes": 2105.3478177299535,
+        "total_negative_work": -0.05934326677853705,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.40288908132339823,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 47.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5043249437945458,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.47556585213001085,
+        "direction_changes": 133.7421158398719,
+        "total_negative_work": -4.236014202743591,
+        "time_of_arrival": 65.4
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.41065141677654116,
+        "direction_changes": 917.2704992069324,
+        "total_negative_work": -0.20916300052791803,
+        "time_of_arrival": 59.6
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.41090337895633056,
+        "direction_changes": 2103.3921747775094,
+        "total_negative_work": -0.08310574998375912,
+        "time_of_arrival": 59.300000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.292783350522173,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 65.10000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5107225643577296,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4552582030471685,
+        "direction_changes": 128.77304215839985,
+        "total_negative_work": -3.0352284044983864,
+        "time_of_arrival": 64.5
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.46906251366776,
+        "direction_changes": 961.4196664982898,
+        "total_negative_work": -0.1938404066439175,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4422460756204834,
+        "direction_changes": 2025.546576461932,
+        "total_negative_work": -0.008958393145573632,
+        "time_of_arrival": 59.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.36241163468200743,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5281561393751435,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.900000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4655583994129864,
+        "direction_changes": 134.2505192138151,
+        "total_negative_work": -4.462998679857139,
+        "time_of_arrival": 65.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4541746733092869,
+        "direction_changes": 1020.3495588439472,
+        "total_negative_work": -0.619255555152822,
+        "time_of_arrival": 59.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4472294047140086,
+        "direction_changes": 2096.526389404996,
+        "total_negative_work": -0.3731767995666493,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3001623925910359,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 62.6
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4541255046502336,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.44182395878126796,
+        "direction_changes": 134.8858219506785,
+        "total_negative_work": -6.24919940715885,
+        "time_of_arrival": 68.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.42782292845793335,
+        "direction_changes": 1033.3496364185578,
+        "total_negative_work": -1.7656478611568005,
+        "time_of_arrival": 61.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.39661855664227547,
+        "direction_changes": 2117.984100218392,
+        "total_negative_work": -0.7050993031928189,
+        "time_of_arrival": 60.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3127462818952467,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 64.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.46074696285328604,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4561002599173647,
+        "direction_changes": 134.1183068715052,
+        "total_negative_work": -5.128319884205226,
+        "time_of_arrival": 65.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4188711685108286,
+        "direction_changes": 1022.4752954634579,
+        "total_negative_work": -0.45423147563671845,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.41551449741545143,
+        "direction_changes": 2048.4957154374515,
+        "total_negative_work": -0.11401372945042453,
+        "time_of_arrival": 58.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2825666227736484,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 71.4
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4547338302613534,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.2
+      },
+      "Guidage GPS": {
+        "max_speed": 0.48935860705694273,
+        "direction_changes": 125.71999384705414,
+        "total_negative_work": -2.3515269453332386,
+        "time_of_arrival": 64.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.46197920239176465,
+        "direction_changes": 1014.0401354552838,
+        "total_negative_work": -0.09596981240803673,
+        "time_of_arrival": 59.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.433402636080146,
+        "direction_changes": 2021.2863484885763,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3473230582299878,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.45465296985529374,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.41393077541052475,
+        "direction_changes": 132.45874929334573,
+        "total_negative_work": -3.254266622589352,
+        "time_of_arrival": 64.3
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.41623606835378696,
+        "direction_changes": 960.6872577799944,
+        "total_negative_work": -0.3044429708780705,
+        "time_of_arrival": 59.300000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.40907319262892855,
+        "direction_changes": 2036.2214984061452,
+        "total_negative_work": -0.10338785968829067,
+        "time_of_arrival": 58.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.26222044238645786,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 69.0
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5008524826176359,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4348882094008452,
+        "direction_changes": 129.36339362407733,
+        "total_negative_work": -2.913223153217053,
+        "time_of_arrival": 64.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4516103084069401,
+        "direction_changes": 881.7117360314577,
+        "total_negative_work": -0.06892042218720953,
+        "time_of_arrival": 59.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4481614340811871,
+        "direction_changes": 2068.7076955690004,
+        "total_negative_work": -0.027586540301269426,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2313805565327373,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 89.80000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4778547436764694,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4644404338782845,
+        "direction_changes": 128.4113799249568,
+        "total_negative_work": -2.0942419835607824,
+        "time_of_arrival": 64.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.45982980625523534,
+        "direction_changes": 996.1157144830078,
+        "total_negative_work": -0.19521301397932378,
+        "time_of_arrival": 61.900000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4423162387845681,
+        "direction_changes": 2149.693751261059,
+        "total_negative_work": -0.010166446738871848,
+        "time_of_arrival": 60.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3390176045282121,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 52.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5012228585283042,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4420193411564571,
+        "direction_changes": 132.45874253059804,
+        "total_negative_work": -5.407479363496534,
+        "time_of_arrival": 66.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.43857677954957136,
+        "direction_changes": 914.5688703692031,
+        "total_negative_work": -0.3154536724383796,
+        "time_of_arrival": 59.1
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4366516221075641,
+        "direction_changes": 2039.969507448808,
+        "total_negative_work": -0.0708625558535073,
+        "time_of_arrival": 58.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3269917775096142,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 61.300000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5055263066251177,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.2
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4196351150401386,
+        "direction_changes": 133.26772105323857,
+        "total_negative_work": -4.848454761597578,
+        "time_of_arrival": 66.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.42902696404650054,
+        "direction_changes": 933.5488608180985,
+        "total_negative_work": -0.3167502227433574,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42348046805682055,
+        "direction_changes": 2102.4865266094494,
+        "total_negative_work": -0.18211473490260144,
+        "time_of_arrival": 59.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.367599013034101,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 52.300000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5144198239497217,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.45496535107299285,
+        "direction_changes": 131.9859225504703,
+        "total_negative_work": -4.65617877203591,
+        "time_of_arrival": 65.3
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4393149423894943,
+        "direction_changes": 956.7109914580255,
+        "total_negative_work": -0.09095448980935912,
+        "time_of_arrival": 57.6
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.44314648375761584,
+        "direction_changes": 1935.840875691019,
+        "total_negative_work": -0.16699375264012375,
+        "time_of_arrival": 57.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.24998980786854158,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 76.0
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4696084001293844,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.6
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4331311582901619,
+        "direction_changes": 134.32102431932964,
+        "total_negative_work": -4.821104942824493,
+        "time_of_arrival": 65.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.5105542568728071,
+        "direction_changes": 949.2988909027947,
+        "total_negative_work": -0.2976671304169832,
+        "time_of_arrival": 59.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3852982879823139,
+        "direction_changes": 2021.854011997831,
+        "total_negative_work": -0.22885544442572736,
+        "time_of_arrival": 58.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2549255908340055,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 71.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5134478996687915,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4653298141644527,
+        "direction_changes": 126.96092137868249,
+        "total_negative_work": -2.134209847231164,
+        "time_of_arrival": 63.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4269418594809229,
+        "direction_changes": 1059.2368458125193,
+        "total_negative_work": -0.1245288429564996,
+        "time_of_arrival": 60.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42556334771181614,
+        "direction_changes": 2122.071360129809,
+        "total_negative_work": -0.024326114381296143,
+        "time_of_arrival": 60.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3076727515787776,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 61.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.48171610368327245,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.44677133700862276,
+        "direction_changes": 131.3111106894179,
+        "total_negative_work": -4.101201122052356,
+        "time_of_arrival": 64.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.45258751715424395,
+        "direction_changes": 1018.902443995536,
+        "total_negative_work": -0.11362633082270157,
+        "time_of_arrival": 58.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4429984416361255,
+        "direction_changes": 2020.4201868623181,
+        "total_negative_work": -0.06566358866464309,
+        "time_of_arrival": 58.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.4016796097520661,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 47.400000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5013037033453752,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4367911872199309,
+        "direction_changes": 133.15544298448023,
+        "total_negative_work": -5.198347202788665,
+        "time_of_arrival": 65.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4320858900256435,
+        "direction_changes": 868.3865168335229,
+        "total_negative_work": -0.5867533553749814,
+        "time_of_arrival": 58.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4478521208284243,
+        "direction_changes": 1999.9836074634823,
+        "total_negative_work": -0.11631981522387447,
+        "time_of_arrival": 58.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.464079933885166,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 44.400000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.48113002330617444,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.900000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.41430091595840074,
+        "direction_changes": 134.49792616556758,
+        "total_negative_work": -5.560938760650022,
+        "time_of_arrival": 66.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3996534053189901,
+        "direction_changes": 1054.724812600218,
+        "total_negative_work": -0.6232709311729222,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.37137048995404665,
+        "direction_changes": 2049.174652242299,
+        "total_negative_work": -0.3423296525161971,
+        "time_of_arrival": 58.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2957637562747501,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 67.10000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.436977748132265,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.44881088167643235,
+        "direction_changes": 131.70014084736638,
+        "total_negative_work": -4.2504210810900664,
+        "time_of_arrival": 64.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.45748742598442105,
+        "direction_changes": 992.7110051088954,
+        "total_negative_work": -0.2629340798798655,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4251732048695049,
+        "direction_changes": 2094.78887359312,
+        "total_negative_work": -0.07961962151019944,
+        "time_of_arrival": 59.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.32770298995690544,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.400000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5626442415016346,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4307739898135219,
+        "direction_changes": 134.61076116472967,
+        "total_negative_work": -5.530514860410569,
+        "time_of_arrival": 67.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4581512377961325,
+        "direction_changes": 891.4582369602545,
+        "total_negative_work": -0.6122557230782268,
+        "time_of_arrival": 59.300000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42225085615948904,
+        "direction_changes": 2056.8491841791815,
+        "total_negative_work": -0.38938482103540917,
+        "time_of_arrival": 58.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.23038952730647805,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 81.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.44416852308800986,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 60.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.48840471147861214,
+        "direction_changes": 122.92504723055006,
+        "total_negative_work": -1.5401248411313597,
+        "time_of_arrival": 64.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.46456018343073124,
+        "direction_changes": 1005.4663749914362,
+        "total_negative_work": -0.03769175492957943,
+        "time_of_arrival": 61.300000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.45198336344270995,
+        "direction_changes": 2203.3883301714136,
+        "total_negative_work": -0.016499439271647293,
+        "time_of_arrival": 61.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2797236717869992,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 63.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5310686683600045,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.41107826091007255,
+        "direction_changes": 133.44062660069324,
+        "total_negative_work": -3.945108379427429,
+        "time_of_arrival": 66.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.43275965145531425,
+        "direction_changes": 900.7271074833521,
+        "total_negative_work": -0.3772445519132429,
+        "time_of_arrival": 60.1
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.43092655297391663,
+        "direction_changes": 2109.8440598084017,
+        "total_negative_work": -0.17475512661158135,
+        "time_of_arrival": 59.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2946289687064367,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 69.0
+      },
+      "Maintien de cap": {
+        "max_speed": 0.43769747382395174,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4831646132783441,
+        "direction_changes": 134.6632208745478,
+        "total_negative_work": -2.1741425914730863,
+        "time_of_arrival": 64.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4174675308849572,
+        "direction_changes": 987.472119191731,
+        "total_negative_work": -0.2142077689497676,
+        "time_of_arrival": 60.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3890068646374976,
+        "direction_changes": 2120.663976456897,
+        "total_negative_work": -0.030798271849705003,
+        "time_of_arrival": 60.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2579137214789453,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 71.8
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5257587353255616,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.46597156241351806,
+        "direction_changes": 129.64775543389774,
+        "total_negative_work": -2.8734879177163277,
+        "time_of_arrival": 64.4
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.47474310977996426,
+        "direction_changes": 889.5396527588019,
+        "total_negative_work": -0.06895373138783216,
+        "time_of_arrival": 60.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42431597851858227,
+        "direction_changes": 2077.8726287957347,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.800000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.32208148219669075,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 61.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.48212470464251106,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.44943135096429654,
+        "direction_changes": 133.1024532165613,
+        "total_negative_work": -5.290894294250896,
+        "time_of_arrival": 66.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.43199215517379164,
+        "direction_changes": 898.3393222362552,
+        "total_negative_work": -0.2885163474744201,
+        "time_of_arrival": 58.6
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4196244380700245,
+        "direction_changes": 1987.6069216757317,
+        "total_negative_work": -0.10030812179526488,
+        "time_of_arrival": 58.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.25647517016448784,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 71.8
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4524393316579629,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.900000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.44129534423029704,
+        "direction_changes": 129.5650149233329,
+        "total_negative_work": -3.450308807084813,
+        "time_of_arrival": 65.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.46829403323584556,
+        "direction_changes": 951.1889005149046,
+        "total_negative_work": -0.21353583534408282,
+        "time_of_arrival": 60.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.46372828352119466,
+        "direction_changes": 2033.4358196474525,
+        "total_negative_work": -0.03193042771379145,
+        "time_of_arrival": 59.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.29583362740432273,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 62.400000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.49620653919619456,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4296127822220907,
+        "direction_changes": 129.10507245516695,
+        "total_negative_work": -3.088691718692594,
+        "time_of_arrival": 64.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.46205244943821605,
+        "direction_changes": 1003.7707881163789,
+        "total_negative_work": -0.17284640953700425,
+        "time_of_arrival": 59.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.45923284496709765,
+        "direction_changes": 2088.9018649472805,
+        "total_negative_work": -0.09480585838414284,
+        "time_of_arrival": 59.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2759321910474562,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 67.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.539499292623417,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4492780516176873,
+        "direction_changes": 133.9633610004052,
+        "total_negative_work": -4.899162804729821,
+        "time_of_arrival": 65.9
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.506978262172733,
+        "direction_changes": 928.3992601871458,
+        "total_negative_work": -0.2921959370821623,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4108559812225918,
+        "direction_changes": 2042.4209131885732,
+        "total_negative_work": -0.0425667893729374,
+        "time_of_arrival": 58.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2935014357108526,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.45279377520668646,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4095345324481682,
+        "direction_changes": 134.66299169251656,
+        "total_negative_work": -6.5449966010205145,
+        "time_of_arrival": 68.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.43229604238072483,
+        "direction_changes": 1026.041241995403,
+        "total_negative_work": -1.1206431917436115,
+        "time_of_arrival": 60.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3985951154830814,
+        "direction_changes": 2110.028376461831,
+        "total_negative_work": -0.3918043709514151,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3374021591995127,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 66.10000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.47054925512527446,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.6
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4553965471505849,
+        "direction_changes": 132.19705497548668,
+        "total_negative_work": -2.6624287871466983,
+        "time_of_arrival": 64.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.46336915107117593,
+        "direction_changes": 984.3624285688334,
+        "total_negative_work": -0.157316906342538,
+        "time_of_arrival": 60.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.43281725629329193,
+        "direction_changes": 2095.989499754413,
+        "total_negative_work": -0.022681750469931476,
+        "time_of_arrival": 59.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.25082552239952666,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 75.4
+      },
+      "Maintien de cap": {
+        "max_speed": 0.49940549234028997,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.900000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4220436689640044,
+        "direction_changes": 130.34504770406423,
+        "total_negative_work": -2.689793184182405,
+        "time_of_arrival": 63.800000000000004
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4933233289310007,
+        "direction_changes": 920.5825272835673,
+        "total_negative_work": -0.2001525993686053,
+        "time_of_arrival": 59.900000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.447941057749469,
+        "direction_changes": 2033.6958849553257,
+        "total_negative_work": -0.04620493244722691,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2579642508940464,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 78.80000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4286893556094517,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.48477451340274197,
+        "direction_changes": 127.42237175720071,
+        "total_negative_work": -2.9347088216084813,
+        "time_of_arrival": 64.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.44880588626455353,
+        "direction_changes": 945.1122877530603,
+        "total_negative_work": -0.02712525582106933,
+        "time_of_arrival": 60.900000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4514634985491134,
+        "direction_changes": 2119.097942987278,
+        "total_negative_work": -0.03391503527895884,
+        "time_of_arrival": 60.400000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.25330649557259327,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 80.60000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.48501428347870545,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.41911619306943404,
+        "direction_changes": 134.2334257621915,
+        "total_negative_work": -4.756460037196705,
+        "time_of_arrival": 65.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3949511766796338,
+        "direction_changes": 1006.3822030503263,
+        "total_negative_work": -0.556674904264765,
+        "time_of_arrival": 58.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3968215091244184,
+        "direction_changes": 1982.2142586682355,
+        "total_negative_work": -0.19252716062933906,
+        "time_of_arrival": 58.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.22054190937754747,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 92.10000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4727195641028234,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4648093354632851,
+        "direction_changes": 128.36643211595077,
+        "total_negative_work": -2.184374933419823,
+        "time_of_arrival": 64.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4443716434254315,
+        "direction_changes": 904.7683476063049,
+        "total_negative_work": -0.18052590684581143,
+        "time_of_arrival": 60.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.44967063275007607,
+        "direction_changes": 2064.0513949010924,
+        "total_negative_work": -0.05876096857805217,
+        "time_of_arrival": 60.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2791996164005366,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 74.8
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5563161785915653,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 52.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4887560816769618,
+        "direction_changes": 126.30717117803692,
+        "total_negative_work": -3.2627513374425563,
+        "time_of_arrival": 63.400000000000006
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4476398382166072,
+        "direction_changes": 862.462468976637,
+        "total_negative_work": -0.00394627033395005,
+        "time_of_arrival": 58.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4401821799475624,
+        "direction_changes": 1931.3970536085442,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.25251687359340036,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 73.5
+      },
+      "Maintien de cap": {
+        "max_speed": 0.44069652182586316,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.900000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.43861700027838696,
+        "direction_changes": 134.84132453430553,
+        "total_negative_work": -4.0815132674393455,
+        "time_of_arrival": 65.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.47565057172347686,
+        "direction_changes": 965.5841639063166,
+        "total_negative_work": -0.48671487945895825,
+        "time_of_arrival": 59.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3712712524829227,
+        "direction_changes": 2088.592475654283,
+        "total_negative_work": -0.12697440120280723,
+        "time_of_arrival": 59.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3815465465384444,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 49.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5215061096242501,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.47086321771446993,
+        "direction_changes": 131.05052882657208,
+        "total_negative_work": -3.085613286902566,
+        "time_of_arrival": 63.6
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.43026845322337076,
+        "direction_changes": 947.1979504435867,
+        "total_negative_work": -0.24606228197137692,
+        "time_of_arrival": 59.1
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42830002302163905,
+        "direction_changes": 2003.9130512490435,
+        "total_negative_work": -0.07330055888869993,
+        "time_of_arrival": 58.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.36450454292082507,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.400000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5486286359054252,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.5022428849818152,
+        "direction_changes": 130.50146316018208,
+        "total_negative_work": -2.134441519407467,
+        "time_of_arrival": 63.6
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4827628899255295,
+        "direction_changes": 848.6442128541503,
+        "total_negative_work": -0.16646198852428468,
+        "time_of_arrival": 60.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.42143067062785733,
+        "direction_changes": 2089.1618112679403,
+        "total_negative_work": -0.004570556709930382,
+        "time_of_arrival": 59.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.32647572093782984,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.6
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4945992384386542,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4955979071565912,
+        "direction_changes": 133.87665154462746,
+        "total_negative_work": -3.083675913233755,
+        "time_of_arrival": 64.5
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.49952173977826775,
+        "direction_changes": 964.8991135491289,
+        "total_negative_work": -0.07707886590333948,
+        "time_of_arrival": 60.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4317569359287533,
+        "direction_changes": 2110.1838960715404,
+        "total_negative_work": -0.032762624571195206,
+        "time_of_arrival": 59.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3170053272886703,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 64.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5120795126348285,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4470052597309972,
+        "direction_changes": 134.4591931914254,
+        "total_negative_work": -5.988951194865958,
+        "time_of_arrival": 66.5
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.43518255923901067,
+        "direction_changes": 920.4545795377476,
+        "total_negative_work": -0.6363766000966569,
+        "time_of_arrival": 58.900000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4100840308111351,
+        "direction_changes": 2001.2379638538257,
+        "total_negative_work": -0.31502780187304186,
+        "time_of_arrival": 58.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.43508661089702566,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 48.900000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4860634334045454,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.46878545156653745,
+        "direction_changes": 128.1594909234844,
+        "total_negative_work": -3.7710610387104295,
+        "time_of_arrival": 64.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4777722945771054,
+        "direction_changes": 928.5204613093534,
+        "total_negative_work": -0.03926878971523985,
+        "time_of_arrival": 58.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4523266112463615,
+        "direction_changes": 1988.5004567587252,
+        "total_negative_work": -0.007027501073825063,
+        "time_of_arrival": 58.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2989295967390936,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 61.300000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.47088159431897975,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4565524237145811,
+        "direction_changes": 133.9068660512105,
+        "total_negative_work": -3.75710934429981,
+        "time_of_arrival": 64.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3929685064433474,
+        "direction_changes": 940.5980334798622,
+        "total_negative_work": -0.235434850879224,
+        "time_of_arrival": 59.5
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.39308176184820587,
+        "direction_changes": 2052.8264183188576,
+        "total_negative_work": -0.08594139145961233,
+        "time_of_arrival": 59.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3032624285731642,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 63.1
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5164059869639019,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 52.6
+      },
+      "Guidage GPS": {
+        "max_speed": 0.468366504335736,
+        "direction_changes": 134.8659276688879,
+        "total_negative_work": -3.857622808464303,
+        "time_of_arrival": 64.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.47415112094987616,
+        "direction_changes": 1020.3421015230465,
+        "total_negative_work": -0.5275216349828455,
+        "time_of_arrival": 59.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.38376591093618556,
+        "direction_changes": 2033.7436205817055,
+        "total_negative_work": -0.22044808197479715,
+        "time_of_arrival": 58.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.33334351877479923,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 63.300000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.48345564485536946,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4661034875619688,
+        "direction_changes": 127.9533400276963,
+        "total_negative_work": -3.6602814171803595,
+        "time_of_arrival": 64.5
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.458642205561275,
+        "direction_changes": 930.9767424319158,
+        "total_negative_work": -0.03460523377750085,
+        "time_of_arrival": 58.900000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.45945017941526367,
+        "direction_changes": 2030.073192224394,
+        "total_negative_work": -0.031176556626548745,
+        "time_of_arrival": 58.6
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3043165103373849,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 62.400000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4542931730030011,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4626435745432325,
+        "direction_changes": 127.03055007840236,
+        "total_negative_work": -2.0628213036287746,
+        "time_of_arrival": 63.6
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.45158902559121694,
+        "direction_changes": 952.8242303164468,
+        "total_negative_work": -0.07581312476063728,
+        "time_of_arrival": 60.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.45196853240121854,
+        "direction_changes": 2082.348859984696,
+        "total_negative_work": -0.04369070935596186,
+        "time_of_arrival": 59.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3067237065337111,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.455942906584894,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.6
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4523030022469803,
+        "direction_changes": 126.66129431992341,
+        "total_negative_work": -2.224245887217283,
+        "time_of_arrival": 63.300000000000004
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4641490470476975,
+        "direction_changes": 965.0901936158754,
+        "total_negative_work": -0.07201073267602238,
+        "time_of_arrival": 59.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4263727093602859,
+        "direction_changes": 2066.858928771747,
+        "total_negative_work": -0.0011370336787650676,
+        "time_of_arrival": 59.400000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3052752360088009,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 74.0
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5626442415016346,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4422333180000346,
+        "direction_changes": 133.827232769222,
+        "total_negative_work": -4.289205116731841,
+        "time_of_arrival": 65.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.39720870487708987,
+        "direction_changes": 935.9393009647564,
+        "total_negative_work": -0.6665640488619264,
+        "time_of_arrival": 59.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.41414789599119933,
+        "direction_changes": 2065.1671850154235,
+        "total_negative_work": -0.2898508972992567,
+        "time_of_arrival": 58.900000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3709397460198865,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 49.300000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4729144852378265,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.900000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.419646999448857,
+        "direction_changes": 134.69990254558994,
+        "total_negative_work": -4.993478158295323,
+        "time_of_arrival": 66.3
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4063255382361982,
+        "direction_changes": 1022.2842143002689,
+        "total_negative_work": -0.6730974917369582,
+        "time_of_arrival": 60.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.419646999448857,
+        "direction_changes": 2099.969552366835,
+        "total_negative_work": -0.1917508669268298,
+        "time_of_arrival": 59.0
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.31685549298217924,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 59.6
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4634876937126593,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.2
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4531299259897946,
+        "direction_changes": 133.42551534221812,
+        "total_negative_work": -3.2335993032792616,
+        "time_of_arrival": 65.2
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.3976717767176053,
+        "direction_changes": 912.6637817797649,
+        "total_negative_work": -0.496368389834298,
+        "time_of_arrival": 60.6
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.39847752748406867,
+        "direction_changes": 2099.326640542251,
+        "total_negative_work": -0.14786582748986624,
+        "time_of_arrival": 59.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3828947779025742,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 53.800000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4957251251153204,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.300000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4689054901087847,
+        "direction_changes": 134.60487906952392,
+        "total_negative_work": -5.9502404145482135,
+        "time_of_arrival": 67.4
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4380026797483299,
+        "direction_changes": 872.2596087349751,
+        "total_negative_work": -0.9659626555320527,
+        "time_of_arrival": 59.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.411580594991373,
+        "direction_changes": 2049.934342591947,
+        "total_negative_work": -0.35843009869552467,
+        "time_of_arrival": 58.6
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2895504445075169,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 63.800000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4808788325459342,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.43106669072634585,
+        "direction_changes": 134.9204828194905,
+        "total_negative_work": -5.980703987283995,
+        "time_of_arrival": 68.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.37280958983742163,
+        "direction_changes": 934.4204949289482,
+        "total_negative_work": -0.7121005936281285,
+        "time_of_arrival": 60.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.37611131220423377,
+        "direction_changes": 2116.937005165673,
+        "total_negative_work": -0.2897201909384507,
+        "time_of_arrival": 59.300000000000004
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.30226022754948145,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 61.400000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4742432238263995,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4507337631635011,
+        "direction_changes": 134.40624356589342,
+        "total_negative_work": -4.89678745498079,
+        "time_of_arrival": 65.8
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.421701419473021,
+        "direction_changes": 1026.915206040415,
+        "total_negative_work": -0.6250643588442527,
+        "time_of_arrival": 59.300000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4151470830030921,
+        "direction_changes": 2028.8161015490437,
+        "total_negative_work": -0.18436505912761098,
+        "time_of_arrival": 58.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.304756467824032,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 63.400000000000006
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5385833322340772,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.469906353237176,
+        "direction_changes": 127.3105881192403,
+        "total_negative_work": -2.0032647152101255,
+        "time_of_arrival": 63.1
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.43864590760057554,
+        "direction_changes": 996.3978342555725,
+        "total_negative_work": -0.09163687833382506,
+        "time_of_arrival": 59.7
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4236473789919339,
+        "direction_changes": 2059.102412242197,
+        "total_negative_work": -0.016561770384828742,
+        "time_of_arrival": 59.7
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.32912075459405526,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.300000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5033152073476256,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.7
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4304369092868894,
+        "direction_changes": 132.8237632591906,
+        "total_negative_work": -4.080761905922465,
+        "time_of_arrival": 65.5
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.417519670394412,
+        "direction_changes": 966.5993659252606,
+        "total_negative_work": -0.44494040206116175,
+        "time_of_arrival": 60.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.40034088712710836,
+        "direction_changes": 2064.0459151887167,
+        "total_negative_work": -0.13984219382085655,
+        "time_of_arrival": 59.1
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.2824569327953688,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 67.60000000000001
+      },
+      "Maintien de cap": {
+        "max_speed": 0.49362552198147913,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 55.400000000000006
+      },
+      "Guidage GPS": {
+        "max_speed": 0.46194992693713427,
+        "direction_changes": 133.2016405029866,
+        "total_negative_work": -4.042397856532131,
+        "time_of_arrival": 64.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.41510236345332385,
+        "direction_changes": 1039.0084589619526,
+        "total_negative_work": -0.22378188246547803,
+        "time_of_arrival": 58.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.41099278053140714,
+        "direction_changes": 2012.4255752037257,
+        "total_negative_work": -0.05759993600534795,
+        "time_of_arrival": 58.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.29022023855859397,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 58.300000000000004
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4463517937570388,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.42139050845827997,
+        "direction_changes": 133.17009794324383,
+        "total_negative_work": -3.6517835806933494,
+        "time_of_arrival": 64.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4486618665427625,
+        "direction_changes": 1029.674587256531,
+        "total_negative_work": -0.32657601939573117,
+        "time_of_arrival": 60.2
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4091406338255058,
+        "direction_changes": 2106.263496392124,
+        "total_negative_work": -0.16173471589087907,
+        "time_of_arrival": 59.6
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3233987715759933,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 60.6
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4987794626946574,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.42506301394364787,
+        "direction_changes": 134.99665719577854,
+        "total_negative_work": -6.074643111541792,
+        "time_of_arrival": 69.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.44518936306447493,
+        "direction_changes": 967.1108443360561,
+        "total_negative_work": -1.274342623232911,
+        "time_of_arrival": 60.800000000000004
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.3803618567958042,
+        "direction_changes": 2051.612013296466,
+        "total_negative_work": -0.526434802639825,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3767289452386978,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 51.6
+      },
+      "Maintien de cap": {
+        "max_speed": 0.521168990696084,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.2
+      },
+      "Guidage GPS": {
+        "max_speed": 0.39500979561700117,
+        "direction_changes": 134.8326136804529,
+        "total_negative_work": -5.001524318533154,
+        "time_of_arrival": 66.60000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.40540818012454055,
+        "direction_changes": 996.882403403439,
+        "total_negative_work": -0.7738176000138874,
+        "time_of_arrival": 60.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.37302634934265044,
+        "direction_changes": 2130.8953594963814,
+        "total_negative_work": -0.28349627276180944,
+        "time_of_arrival": 59.400000000000006
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.255703297019415,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 74.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.45555086944859924,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 57.0
+      },
+      "Guidage GPS": {
+        "max_speed": 0.454655075820775,
+        "direction_changes": 131.59268172813873,
+        "total_negative_work": -2.7925768333855925,
+        "time_of_arrival": 64.0
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4227485982302291,
+        "direction_changes": 949.8435103766467,
+        "total_negative_work": -0.14817070868306298,
+        "time_of_arrival": 60.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4227118934256035,
+        "direction_changes": 2077.6476428011742,
+        "total_negative_work": -0.08388597792289361,
+        "time_of_arrival": 59.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3057512387406228,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 62.7
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4977248791103617,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.5
+      },
+      "Guidage GPS": {
+        "max_speed": 0.44722501196922243,
+        "direction_changes": 126.14159416388713,
+        "total_negative_work": -2.934558075047524,
+        "time_of_arrival": 64.10000000000001
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4725665735205586,
+        "direction_changes": 1024.4625450417918,
+        "total_negative_work": -0.11382929247265919,
+        "time_of_arrival": 59.6
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4300694037316738,
+        "direction_changes": 2089.465605855317,
+        "total_negative_work": -0.01126347165160034,
+        "time_of_arrival": 59.2
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.3314943960334481,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 64.9
+      },
+      "Maintien de cap": {
+        "max_speed": 0.4503390182639391,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 56.1
+      },
+      "Guidage GPS": {
+        "max_speed": 0.4299975945995277,
+        "direction_changes": 134.96928392019365,
+        "total_negative_work": -6.492002567405745,
+        "time_of_arrival": 68.4
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4506664898326628,
+        "direction_changes": 986.3594134027958,
+        "total_negative_work": -0.7695889881638638,
+        "time_of_arrival": 59.400000000000006
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.4125192670372494,
+        "direction_changes": 2046.0597903654486,
+        "total_negative_work": -0.2842593913988333,
+        "time_of_arrival": 58.5
+      }
+    },
+    {
+      "Bateau inerte": {
+        "max_speed": 0.4402857346935959,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 46.2
+      },
+      "Maintien de cap": {
+        "max_speed": 0.5040581987463545,
+        "direction_changes": 0.0,
+        "total_negative_work": 0.0,
+        "time_of_arrival": 50.800000000000004
+      },
+      "Guidage GPS": {
+        "max_speed": 0.46686977396997287,
+        "direction_changes": 132.7405258857401,
+        "total_negative_work": -4.681882794945265,
+        "time_of_arrival": 64.7
+      },
+      "Suivi de la route adapt\u00e9e": {
+        "max_speed": 0.4514157934761657,
+        "direction_changes": 833.5360377625541,
+        "total_negative_work": -0.16903344931443798,
+        "time_of_arrival": 58.0
+      },
+      "Suivi de la ligne directe": {
+        "max_speed": 0.44928624735491757,
+        "direction_changes": 1911.4112903591724,
+        "total_negative_work": -0.027520847501177947,
+        "time_of_arrival": 57.5
+      }
+    }
+  ]
+}

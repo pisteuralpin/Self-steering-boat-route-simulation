@@ -48,10 +48,10 @@ currents_model = 2
 # ----------------------------- Boats parameters ----------------------------- #
 
 boats_base_speed = 2 # m/s
-hydrodynamic_efficiency = .7
 calculations_tick = .1 # s
 precision = .25 # m
 
+hydrodynamic_efficiency = 1
 # ----------------------------- Prints parameters ---------------------------- #
 
 print("---- Parameters: ----")
@@ -449,6 +449,7 @@ fig, axs = plt.subplots(3, 1, sharex=True)
 # ------------------------------ Time of arrival ----------------------------- #
 for b in boats:
     if b.arrived:
+        print(b.name, calculations_tick * len(b.positions))
         axs[0].bar(b.name, calculations_tick * len(b.positions),
                    color=b.color, label=b.name)
 
@@ -462,6 +463,7 @@ print("✔ Time of arrival plotted")
 # ---------------------------- Total negative work --------------------------- #
 for b in boats:
     if b.steering_model != None:
+        print(b.name, np.sum([p for p in b.powers if p<0]))
         axs[1].bar(b.name, np.abs(np.sum([p for p in b.powers if p<0])),
                    color=b.color, label=b.name)
 
@@ -475,6 +477,7 @@ print("✔ Total work plotted")
 # ----------------------------- Direction changes ---------------------------- #
 for b in boats:
     if b.steering_model != None:
+        print(b.name, np.sum(np.abs(np.diff(b.directions)))*180/np.pi)
         axs[2].bar(b.name, np.sum(np.abs(np.diff(b.directions)))*180/np.pi,
                    color=b.color, label=b.name)
 
